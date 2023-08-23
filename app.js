@@ -23,7 +23,6 @@ const categoriesRoute = require('../trial billing/Routes/Categories.js');
 const usersRoute = require('./Routes/Users.js');
 const ordersRoute = require('./Routes/Orders.js');
 const authJwt = require('./Helpers/jwt');
-const { connectFunc } = require('./db');
 
 const api  = process.env.URL;
 
