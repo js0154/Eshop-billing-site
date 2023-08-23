@@ -1,4 +1,6 @@
-# Eshop-billing-site  
+# Eshop-billing-site  by Jyoti Raj Sinha
+Register No.-RA2011026010025
+SRM Institute of Science and Technology, KTR campus
 
 
 Packages:-
