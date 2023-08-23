@@ -38,7 +38,7 @@ GET      /api/eshop/orders/:id
 POST     /api/eshop/orders
 PUT      /api/eshop/orders/:id                                          (admin only)
 DELETE   /api/eshop/orders/:id
-Get:     /api/v1/orders/get/userorders/:userid
+GET:     /api/v1/orders/get/userorders/:userid
 
 The Tax is calculated based on given conditions in the problem statement
 
